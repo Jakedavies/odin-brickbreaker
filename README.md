@@ -2,6 +2,8 @@
 
 Brick breaker game written in Odin using raylib.
 
+![demo](demo.png)
+
 ## Build
 
 ```
